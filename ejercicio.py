@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 # Función para mostrar la información del alumno
 def mostrar_informacion_alumno():
     with st.container():
-        st.markdown('Legajo: 55.555')
-        st.markdown('Nombre: Juan Pérez')
-        st.markdown('Comisión: C1')
+        st.markdown('Legajo: 58.721')
+        st.markdown('Nombre: Juncos Gonzalo')
+        st.markdown('Comisión: C5')
 
 # Función para procesar datos y generar métricas
 def procesar_datos(df, sucursal_seleccionada):
